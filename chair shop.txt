@@ -1,0 +1,97 @@
+      <header>
+          1. (use header-tag)
+          .కుర్చీలు, సోఫాలు, మడత మంచాలు అమ్ముతాం
+          2.In a small shop in the heart of vijayawada, we spend our days
+            relentlessly perfecting the chair. The result is a perfect blend of
+            beauty and comfort, that will have a lasting impact on your health.
+	    (use paragraph)
+          3.Shop chairs (use anchors)
+          4.place an image (hero image)
+      </header>
+
+      <section>
+        5.మా కాడివే బావుంటాయి. ఎందుకంటే... (use header-tag)
+
+        <div>
+        6.బొక్కల కుర్చీలు (use paragraph)
+        7.గాలి బాగొస్తది. Science meets design. gbfb kjasb asbjh
+          hdjh bdsbjk kbdk jhbdab bjkadskd. qkdb vqwduv.
+          (use paragraph)
+        </div>
+
+        <div>
+        8.మడత కుర్చీలు (use paragraph)
+        9.ఇంట్లో మడత పెట్టుకునే కుర్చీలుంటే జాగా బొక్క లేకుండా విశాలంగా ఉంటది.
+          kbkasb qiskcbkjc kjqdhhq.
+          (use paragraph)
+        </div>
+
+         <div>
+         10.భారతీయుడు కుర్చీలు (use paragraph)
+         11.ఇంటికి CBI వాళ్ళు వస్తే. కుర్చీలో కూర్చునే కొట్టొచ్చు.
+            రెండు పక్కల నుండి sliding కర్రలు కూడా వస్తాయి.
+            (use paragraph)
+         </div>
+       </section>
+
+       <section>
+         12. place an image (customers image)
+
+          <div>
+         13."We cannot live without these chairs anymore"(use header-tag)
+         <blockquote>
+         14. cajknck ACcbnacn iahcoAOC OICAOIco oiodshvoi voovoihsov
+             sdcsoiucvho odcioasioc OIASCOIo ooco oasdocio opxlzm cnzhuc
+             cncznc ocoial LASDKCNN.
+          </blockquote>
+         15.&mdash; Dad's little princess and Vantalakka (use paragraph)
+          </div>
+       </section>
+
+       <section>
+          16.Our bestselling chairs(use header-tags)
+
+          <figure>
+             17.place an image (chair-1 image)
+             18.The Laid Back(use header-tag)
+             19.<ul>
+                <li>Leisure and relaxing</li>
+                <li>Comfortable for 4hrs</li>
+                <li>Vegan leather</li>
+                <li>Weighs 16 kg</li>
+              </ul>
+             20. Rs.50/- (un-categorised element)
+                 Add to cart (use anchor)
+          </figure>
+
+          <figure>
+             21.place an image (chair-2 image)
+             22.The Worker Bee (use header-tag)
+             23.<ul>
+                 <li>Work</li>
+                 <li>Comfortable for 8hrs</li>
+                 <li>Vegan leather</li>
+                 <li>Weighs 22 kg</li>
+               </ul>
+             24. Rs.56/- (un-categorised element)
+                 Add to cart (use anchor)
+          </figure>
+          
+          <figure>
+             25.place an image (chair-3 image)
+             26.The Chair 4/2 (use header-tag)
+             27.<ul>
+                <li>Leisure and relaxing</li>
+                <li>Comfortable all day!</li>
+                <li>Organic cotton</li>
+                <li>Weighs 80 kg</li>
+               </ul>
+             28.Rs.56/- (un-categorised element)
+                Add to cart (use anchor)
+           </figure>
+        </section>
+        
+   <footer>
+      29. Copyright &copy; 2086 by Delisha.
+   </footer>
+   u
